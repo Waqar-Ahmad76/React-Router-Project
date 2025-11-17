@@ -1,2 +1,2 @@
 # React-Router-Project
-A modern, single-page application (SPA) boilerplate focusing on efficient client-side navigation using React Router.
+This project demonstrates core routing principles, featuring a persistent layout (Header and Footer components) that remains static across pages, while dynamically rendering different components for the Home, About, and Contact routes. It serves as a practical foundation for building complex, multi-page React applications with seamless user experience.
